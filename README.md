@@ -1,4 +1,6 @@
 # WebGo
+
+[![Join the chat at https://gitter.im/NikSmith/webgo](https://badges.gitter.im/NikSmith/webgo.svg)](https://gitter.im/NikSmith/webgo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 MVC framework
 
 ---
